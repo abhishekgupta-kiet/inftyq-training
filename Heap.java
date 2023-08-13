@@ -1,3 +1,5 @@
+// dekh mai fork practice kr rha hun, so mind mt kario changes
+
 proceduredesign_min_heap
 Array arr: of size n => array of elements
  // call min_heapify procedure for each element of the array to form min heap
